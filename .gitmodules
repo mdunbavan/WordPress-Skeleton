@@ -4,3 +4,6 @@
 [submodule "content/themes/gs-starter-theme"]
 	path = content/themes/gs-starter-theme
 	url = https://github.com/growthspark/gs-starter-theme
+[submodule "content/mu-plugins"]
+	path = content/mu-plugins
+	url = https://github.com/growthspark/gs-mu-plugins
